@@ -1,4 +1,7 @@
-# talks
+---
+layout: main
+---
+# talks {#talks}
 
 We want YOU to come talk or present at a future Rockford Web Devs event! (Seriously, we want you to do it. We'll beg if we have to.) A "talk" can be anything--a walk-through of some code you wrote, a story you want to tell, a project you're working on, some art or a robot or a song or wearable tech or anything you can think of that even remotely relates to the web, HTML, CSS, JavaScript, PHP or the tech community in general, we're all ears!
 
@@ -12,7 +15,7 @@ Not interested in speaking yourself, but have topics you'd like to see covered, 
 
 > _Note: If you'd prefer not to use GitHub for any reason, you can also submit talks via this Google Form: http://goo.gl/forms/6dDQy3u6LA_
 
-## Talk Proposal Template
+## Talk Proposal Template {#talk-proposal-template}
 
 _Copy the below template and paste into a [new issue](https://github.com/rockfordweb/talks/issues/new)_
 
@@ -22,7 +25,7 @@ _Copy the below template and paste into a [new issue](https://github.com/rockfor
 
 **Approx length:** (keep this number betweeen 3 and 50 minutes, please)
 
-## Topic Request Template
+## Topic Request Template {#topic-request-template}
 
 _Note: the title of the issue should start with "Request: " and then the actual topic request. Copy the below template and paste it into a [new issue](https://github.com/rockfordweb/talks/issues/new)_
 
