@@ -2,7 +2,7 @@
 
 We want YOU to come talk or present at a future Rockford Web Devs event! (Seriously, we want you to do it. We'll beg if we have to.) A "talk" can be anything--a walk-through of some code you wrote, a story you want to tell, a project you're working on, some art or a robot or a song or wearable tech or anything you can think of that even remotely relates to the web, HTML, CSS, JavaScript, PHP or the tech community in general, we're all ears!
 
-Talks should be 3-15 minutes long, and our events occur on the second Tuesday of the month in Rockford, IL. View our [meetup.com page](http://www.meetup.com/Rockford-Web-Devs) for a list of upcoming events.
+Talks should be 3-50 minutes long, and our events occur on the second Tuesday of the month in Rockford, IL. View our [meetup.com page](http://www.meetup.com/Rockford-Web-Devs) for a list of upcoming events.
 
 **To submit an idea**, copy the below Issue Template, then [create a new issue](https://github.com/rockfordweb/talks/issues/new) and paste it in, filling it out with your details. Doesn't need to be super detailed or formal like an abstract, just casually give us an idea of what you'll talk about. **OK GO!!!**
 
@@ -20,7 +20,7 @@ _Copy the below template and paste into a [new issue](https://github.com/rockfor
 
 **Your idea:** I'm thinking about presenting this cool todo app I built, using a mash-up of 35 different JS frameworks to maximize the real-time potential of the semantic web. I'll walk everyone through how I used gulp-grunt-broccoli to build it and then show them a quick demo of some of the awesome shadow DOM things it can do.
 
-**Approx length:** (keep this number betweeen 3 and 15 minutes, please)
+**Approx length:** (keep this number betweeen 3 and 50 minutes, please)
 
 ## Topic Request Template
 
